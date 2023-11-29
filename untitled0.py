@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 27 11:17:32 2021
-
-@author: tarun.chimnani`x
-"""
-
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
